@@ -2,8 +2,6 @@
 #include <iostream>
 #include <fstream>
 #include <cmath>
-#include <algorithm>
-#include <stack>
 using namespace std;
 
 void error(string word1, string word2, string msg) {
